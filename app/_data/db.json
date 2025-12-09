@@ -1,0 +1,1133 @@
+{
+  "products": [
+        {
+      "id": "prod_001",
+      "name": "USB-C Docking Station",
+      "price": 79.99,
+      "stock": 22,
+      "category": "Accessories",
+      "description": "Multi-port docking station",
+      "image": "https://picsum.photos/300/200?random=8",
+      "createdAt": "2024-02-12T14:00:00Z"
+    },
+    {
+      "id": "prod_002",
+      "name": "Noise Cancelling Earbuds",
+      "price": 129.99,
+      "stock": 33,
+      "category": "Electronics",
+      "description": "Wireless earbuds with ANC",
+      "image": "https://picsum.photos/300/200?random=9",
+      "createdAt": "2024-03-19T10:20:00Z"
+    },{
+      "id": "prod_002",
+      "name": "Bluetooth SpeakerBluetooth SpeakerBluetooth SpeakerBluetooth Speaker",
+      "price": "89.5895895895895895",
+      "stock": 12,
+      "category": "ElectronicsElectronicsElectronicsElectronicsElectronics",
+      "description": "Portable speaker with deep bass",
+      "image": "https://picsum.photos/300/200?random=2",
+      "createdAt": "2024-02-01T09:15:00Z"
+    },
+    {
+      "id": "prod_003",
+      "name": "Smartwatch Pro",
+      "price": 149.99,
+      "stock": 40,
+      "category": "Wearables",
+      "description": "Fitness tracking smartwatch",
+      "image": "https://picsum.photos/300/200?random=3",
+      "createdAt": "2024-01-22T13:40:00Z"
+    },
+    {
+      "id": "prod_004",
+      "name": "Gaming Mouse",
+      "price": 59.99,
+      "stock": 30,
+      "category": "Accessories",
+      "description": "RGB wired gaming mouse",
+      "image": "https://picsum.photos/300/200?random=4",
+      "createdAt": "2024-03-05T11:00:00Z"
+    },
+    {
+      "id": "prod_005",
+      "name": "Mechanical Keyboard",
+      "price": 120,
+      "stock": 18,
+      "category": "Accessories",
+      "description": "Blue switch mechanical keyboard",
+      "image": "https://picsum.photos/300/200?random=5",
+      "createdAt": "2024-03-10T16:20:00Z"
+    },
+    {
+      "id": "prod_006",
+      "name": "4K Action Camera",
+      "price": 249.99,
+      "stock": 10,
+      "category": "Cameras",
+      "description": "Waterproof 4K sports action camera",
+      "image": "https://picsum.photos/300/200?random=6",
+      "createdAt": "2024-02-18T08:10:00Z"
+    },
+    {
+      "id": "prod_007",
+      "name": "Laptop Stand",
+      "price": 34.99,
+      "stock": 55,
+      "category": "Accessories",
+      "description": "Aluminum adjustable laptop stand",
+      "image": "https://picsum.photos/300/200?random=7",
+      "createdAt": "2024-01-29T12:45:00Z"
+    },
+    {
+      "id": "prod_008",
+      "name": "USB-C Docking Station",
+      "price": 79.99,
+      "stock": 22,
+      "category": "Accessories",
+      "description": "Multi-port docking station",
+      "image": "https://picsum.photos/300/200?random=8",
+      "createdAt": "2024-02-12T14:00:00Z"
+    },
+    {
+      "id": "prod_009",
+      "name": "Noise Cancelling Earbuds",
+      "price": 129.99,
+      "stock": 33,
+      "category": "Electronics",
+      "description": "Wireless earbuds with ANC",
+      "image": "https://picsum.photos/300/200?random=9",
+      "createdAt": "2024-03-19T10:20:00Z"
+    },
+    {
+      "id": "prod_010",
+      "name": "Smart Home Hub",
+      "price": 99.99,
+      "stock": 16,
+      "category": "Smart Home",
+      "description": "Central hub for smart devices",
+      "image": "https://picsum.photos/300/200?random=10",
+      "createdAt": "2024-01-17T09:30:00Z"
+    },
+    {
+      "id": "prod_011",
+      "name": "WiFi Router AX6000",
+      "price": 189,
+      "stock": 14,
+      "category": "Networking",
+      "description": "High-speed WiFi 6 router",
+      "image": "https://picsum.photos/300/200?random=11",
+      "createdAt": "2024-02-25T07:55:00Z"
+    },
+    {
+      "id": "prod_012",
+      "name": "Smart LED Strip",
+      "price": 29.99,
+      "stock": 60,
+      "category": "Smart Home",
+      "description": "RGB smart LED strip with app control",
+      "image": "https://picsum.photos/300/200?random=12",
+      "createdAt": "2024-03-11T15:00:00Z"
+    },
+    {
+      "id": "prod_013",
+      "name": "Drone Mini",
+      "price": 299.99,
+      "stock": 8,
+      "category": "Drones",
+      "description": "4K camera drone with stabilization",
+      "image": "https://picsum.photos/300/200?random=13",
+      "createdAt": "2024-01-26T11:25:00Z"
+    },
+    {
+      "id": "prod_014",
+      "name": "VR Headset",
+      "price": 349,
+      "stock": 6,
+      "category": "Gaming",
+      "description": "Immersive VR headset",
+      "image": "https://picsum.photos/300/200?random=14",
+      "createdAt": "2024-02-07T10:10:00Z"
+    },
+    {
+      "id": "prod_015",
+      "name": "Portable Monitor",
+      "price": 179.99,
+      "stock": 20,
+      "category": "Monitors",
+      "description": "15-inch portable USB-C display",
+      "image": "https://picsum.photos/300/200?random=15",
+      "createdAt": "2024-03-08T14:30:00Z"
+    },
+    {
+      "id": "prod_016",
+      "name": "Power Bank 20000mAh",
+      "price": 39.99,
+      "stock": 50,
+      "category": "Accessories",
+      "description": "Fast-charging high-capacity power bank",
+      "image": "https://picsum.photos/300/200?random=16",
+      "createdAt": "2024-02-14T09:00:00Z"
+    },
+    {
+      "id": "prod_017",
+      "name": "Smart Thermostat",
+      "price": 149,
+      "stock": 13,
+      "category": "Smart Home",
+      "description": "Energy-efficient smart thermostat",
+      "image": "https://picsum.photos/300/200?random=17",
+      "createdAt": "2024-01-20T12:00:00Z"
+    },
+    {
+      "id": "prod_018",
+      "name": "Security Camera",
+      "price": 89.99,
+      "stock": 27,
+      "category": "Security",
+      "description": "1080p indoor security camera",
+      "image": "https://picsum.photos/300/200?random=18",
+      "createdAt": "2024-03-03T13:22:00Z"
+    },
+    {
+      "id": "prod_019",
+      "name": "Wireless Charger Pad",
+      "price": 24.99,
+      "stock": 70,
+      "category": "Accessories",
+      "description": "Fast Qi wireless charging pad",
+      "image": "https://picsum.photos/300/200?random=19",
+      "createdAt": "2024-01-30T15:40:00Z"
+    },
+    {
+      "id": "prod_020",
+      "name": "Smart Door Lock",
+      "price": 169.99,
+      "stock": 9,
+      "category": "Security",
+      "description": "Bluetooth-enabled smart door lock",
+      "image": "https://picsum.photos/300/200?random=20",
+      "createdAt": "2024-02-22T08:40:00Z"
+    },
+    {
+      "id": "prod_021",
+      "name": "Smart Light Bulb",
+      "price": 19.99,
+      "stock": 80,
+      "category": "Smart Home",
+      "description": "WiFi-enabled multicolor light bulb",
+      "image": "https://picsum.photos/300/200?random=21",
+      "createdAt": "2024-03-12T10:00:00Z"
+    },
+    {
+      "id": "prod_022",
+      "name": "Electric Toothbrush",
+      "price": 49.99,
+      "stock": 35,
+      "category": "Personal Care",
+      "description": "Rechargeable sonic toothbrush",
+      "image": "https://picsum.photos/300/200?random=22",
+      "createdAt": "2024-02-03T08:10:00Z"
+    },
+    {
+      "id": "prod_023",
+      "name": "Portable Projector",
+      "price": 229.99,
+      "stock": 14,
+      "category": "Electronics",
+      "description": "Mini portable home projector",
+      "image": "https://picsum.photos/300/200?random=23",
+      "createdAt": "2024-03-09T18:00:00Z"
+    },
+    {
+      "id": "prod_024",
+      "name": "Robot Vacuum",
+      "price": 299.99,
+      "stock": 11,
+      "category": "Home Appliances",
+      "description": "Automatic robot vacuum cleaner",
+      "image": "https://picsum.photos/300/200?random=24",
+      "createdAt": "2024-01-19T13:15:00Z"
+    },
+    {
+      "id": "prod_025",
+      "name": "Smart Scale",
+      "price": 39.99,
+      "stock": 50,
+      "category": "Health",
+      "description": "Body composition smart scale",
+      "image": "https://picsum.photos/300/200?random=25",
+      "createdAt": "2024-02-08T11:45:00Z"
+    },
+    {
+      "id": "prod_026",
+      "name": "Car Dashcam",
+      "price": 109.99,
+      "stock": 19,
+      "category": "Automotive",
+      "description": "1080p dashboard camera",
+      "image": "https://picsum.photos/300/200?random=26",
+      "createdAt": "2024-02-20T16:30:00Z"
+    },
+    {
+      "id": "prod_027",
+      "name": "Smart Air Purifier",
+      "price": 159.99,
+      "stock": 17,
+      "category": "Home Appliances",
+      "description": "HEPA air purifier with app support",
+      "image": "https://picsum.photos/300/200?random=27",
+      "createdAt": "2024-01-25T09:50:00Z"
+    },
+    {
+      "id": "prod_028",
+      "name": "Coffee Grinder",
+      "price": 44.99,
+      "stock": 28,
+      "category": "Kitchen",
+      "description": "Stainless steel electric grinder",
+      "image": "https://picsum.photos/300/200?random=28",
+      "createdAt": "2024-03-14T12:30:00Z"
+    },
+    {
+      "id": "prod_029",
+      "name": "Smart Plug",
+      "price": 14.99,
+      "stock": 100,
+      "category": "Smart Home",
+      "description": "Voice-control enabled smart plug",
+      "image": "https://picsum.photos/300/200?random=29",
+      "createdAt": "2024-01-31T14:12:00Z"
+    },
+    {
+      "id": "prod_030",
+      "name": "Fitness Tracker",
+      "price": 59.99,
+      "stock": 42,
+      "category": "Wearables",
+      "description": "Water-resistant activity tracker",
+      "image": "https://picsum.photos/300/200?random=30",
+      "createdAt": "2024-03-02T07:20:00Z"
+    },
+    {
+      "id": "prod_031",
+      "name": "Electric Kettle",
+      "price": 32.99,
+      "stock": 26,
+      "category": "Kitchen",
+      "description": "1.7L stainless steel electric kettle",
+      "image": "https://picsum.photos/300/200?random=31",
+      "createdAt": "2024-02-17T09:40:00Z"
+    },
+    {
+      "id": "prod_032",
+      "name": "Hair Dryer Pro",
+      "price": 74.99,
+      "stock": 22,
+      "category": "Personal Care",
+      "description": "High-speed ionic hair dryer",
+      "image": "https://picsum.photos/300/200?random=32",
+      "createdAt": "2024-01-21T10:30:00Z"
+    },
+    {
+      "id": "prod_033",
+      "name": "LED Desk Lamp",
+      "price": 27.99,
+      "stock": 48,
+      "category": "Home",
+      "description": "Adjustable LED desk lamp",
+      "image": "httpsum.photos/300/200?random=33",
+      "createdAt": "2024-02-24T11:00:00Z"
+    },
+    {
+      "id": "prod_034",
+      "name": "Electric Shaver",
+      "price": 89.99,
+      "stock": 15,
+      "category": "Personal Care",
+      "description": "Waterproof rechargeable shaver",
+      "image": "https://picsum.photos/300/200?random=34",
+      "createdAt": "2024-03-06T15:15:00Z"
+    },
+    {
+      "id": "prod_035",
+      "name": "Mini Portable Fan",
+      "price": 16.99,
+      "stock": 70,
+      "category": "Home",
+      "description": "Rechargeable handheld fan",
+      "image": "https://picsum.photos/300/200?random=35",
+      "createdAt": "2024-02-11T13:35:00Z"
+    },
+    {
+      "id": "prod_036",
+      "name": "Laptop Backpack",
+      "price": 54.99,
+      "stock": 33,
+      "category": "Bags",
+      "description": "Waterproof laptop backpack",
+      "image": "https://picsum.photos/300/200?random=36",
+      "createdAt": "2024-01-28T08:00:00Z"
+    },
+    {
+      "id": "prod_037",
+      "name": "Bluetooth Keyboard",
+      "price": 45,
+      "stock": 24,
+      "category": "Accessories",
+      "description": "Slim wireless Bluetooth keyboard",
+      "image": "https://picsum.photos/300/200?random=37",
+      "createdAt": "2024-03-01T09:20:00Z"
+    },
+    {
+      "id": "prod_038",
+      "name": "Portable Blender",
+      "price": 34.99,
+      "stock": 31,
+      "category": "Kitchen",
+      "description": "USB rechargeable portable blender",
+      "image": "https://picsum.photos/300/200?random=38",
+      "createdAt": "2024-02-19T07:30:00Z"
+    },
+    {
+      "id": "prod_039",
+      "name": "Wireless Doorbell",
+      "price": 24.99,
+      "stock": 65,
+      "category": "Home",
+      "description": "Battery-powered wireless doorbell",
+      "image": "https://picsum.photos/300/200?random=39",
+      "createdAt": "2024-01-27T12:25:00Z"
+    },
+    {
+      "id": "prod_040",
+      "name": "Rechargeable Flashlight",
+      "price": 29.99,
+      "stock": 50,
+      "category": "Outdoors",
+      "description": "High-lumen LED flashlight",
+      "image": "https://picsum.photos/300/200?random=40",
+      "createdAt": "2024-02-16T14:10:00Z"
+    },
+    {
+      "id": "prod_041",
+      "name": "USB-C Fast Charger",
+      "price": 22.99,
+      "stock": 90,
+      "category": "Accessories",
+      "description": "25W USB-C fast charging adapter",
+      "image": "https://picsum.photos/300/200?random=41",
+      "createdAt": "2024-03-04T11:40:00Z"
+    },
+    {
+      "id": "prod_042",
+      "name": "Electric Heater",
+      "price": 79.99,
+      "stock": 18,
+      "category": "Home Appliances",
+      "description": "Portable ceramic space heater",
+      "image": "https://picsum.photos/300/200?random=42",
+      "createdAt": "2024-01-23T15:30:00Z"
+    },
+    {
+      "id": "prod_043",
+      "name": "Kitchen Air Fryer",
+      "price": 129.99,
+      "stock": 20,
+      "category": "Kitchen",
+      "description": "5.5L oil-free air fryer",
+      "image": "https://picsum.photos/300/200?random=43",
+      "createdAt": "2024-02-27T09:25:00Z"
+    },
+    {
+      "id": "prod_044",
+      "name": "Outdoor Lantern",
+      "price": 27.99,
+      "stock": 55,
+      "category": "Outdoors",
+      "description": "Rechargeable camping lantern",
+      "image": "https://picsum.photos/300/200?random=44",
+      "createdAt": "2024-03-07T16:20:00Z"
+    },
+    {
+      "id": "prod_045",
+      "name": "Gaming Controller",
+      "price": 69.99,
+      "stock": 32,
+      "category": "Gaming",
+      "description": "Wireless dual joystick controller",
+      "image": "https://picsum.photos/300/200?random=45",
+      "createdAt": "2024-02-10T12:10:00Z"
+    },
+    {
+      "id": "prod_046",
+      "name": "Smart Water Bottle",
+      "price": 39.99,
+      "stock": 44,
+      "category": "Fitness",
+      "description": "Hydration tracking bottle",
+      "image": "https://picsum.photos/300/200?random=46",
+      "createdAt": "2024-01-24T11:00:00Z"
+    },
+    {
+      "id": "prod_047",
+      "name": "Portable Hard Drive 1TB",
+      "price": 89.99,
+      "stock": 27,
+      "category": "Storage",
+      "description": "External USB 3.0 hard drive",
+      "image": "https://picsum.photos/300/200?random=47",
+      "createdAt": "2024-02-05T07:45:00Z"
+    },
+    {
+      "id": "prod_048",
+      "name": "Noise Meter",
+      "price": 34.99,
+      "stock": 36,
+      "category": "Tools",
+      "description": "Handheld digital sound level meter",
+      "image": "https://picsum.photos/300/200?random=48",
+      "createdAt": "2024-03-13T13:55:00Z"
+    },
+    {
+      "id": "prod_049",
+      "name": "Electric Screwdriver",
+      "price": 49.99,
+      "stock": 30,
+      "category": "Tools",
+      "description": "Cordless electric screwdriver kit",
+      "image": "https://picsum.photos/300/200?random=49",
+      "createdAt": "2024-02-06T10:40:00Z"
+    },
+    {
+      "id": "prod_050",
+      "name": "Digital Photo Frame",
+      "price": 79.99,
+      "stock": 21,
+      "category": "Electronics",
+      "description": "WiFi digital photo frame",
+      "image": "https://picsum.photos/300/200?random=50",
+      "createdAt": "2024-01-18T07:00:00Z"
+    },
+    {
+      "id": "prod_051",
+      "name": "Smart Fitness Scale",
+      "price": 59.99,
+      "stock": 37,
+      "category": "Health",
+      "description": "Bluetooth smart body scale",
+      "image": "https://picsum.photos/300/200?random=51",
+      "createdAt": "2024-03-15T10:50:00Z"
+    },
+    {
+      "id": "prod_052",
+      "name": "Portable Solar Charger",
+      "price": 45.99,
+      "stock": 28,
+      "category": "Outdoors",
+      "description": "Foldable solar power bank",
+      "image": "https://picsum.photos/300/200?random=52",
+      "createdAt": "2024-02-04T12:40:00Z"
+    },
+    {
+      "id": "prod_053",
+      "name": "Thermal Camera",
+      "price": 299.99,
+      "stock": 9,
+      "category": "Electronics",
+      "description": "Infrared thermal imaging camera",
+      "image": "https://picsum.photos/300/200?random=53",
+      "createdAt": "2024-01-16T14:15:00Z"
+    },
+    {
+      "id": "prod_054",
+      "name": "Car Jump Starter",
+      "price": 89.99,
+      "stock": 17,
+      "category": "Automotive",
+      "description": "Lithium battery jump starter",
+      "image": "https://picsum.photos/300/200?random=54",
+      "createdAt": "2024-03-05T09:45:00Z"
+    },
+    {
+      "id": "prod_055",
+      "name": "Wireless Barcode Scanner",
+      "price": 69.99,
+      "stock": 23,
+      "category": "Business",
+      "description": "2.4G handheld barcode scanner",
+      "image": "https://picsum.photos/300/200?random=55",
+      "createdAt": "2024-02-13T08:55:00Z"
+    },
+    {
+      "id": "prod_056",
+      "name": "Mini Dehumidifier",
+      "price": 49.99,
+      "stock": 14,
+      "category": "Home Appliances",
+      "description": "Portable moisture absorber",
+      "image": "https://picsum.photos/300/200?random=56",
+      "createdAt": "2024-02-21T16:10:00Z"
+    },
+    {
+      "id": "prod_057",
+      "name": "Wireless Headphones",
+      "price": 199.99,
+      "stock": 25,
+      "category": "Electronics",
+      "description": "Noise cancelling headphones",
+      "image": "https://picsum.photos/300/200?random=1",
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "prod_058",
+      "name": "Bluetooth Speaker",
+      "price": 89.5,
+      "stock": 12,
+      "category": "Electronics",
+      "description": "Portable speaker with deep bass",
+      "image": "https://picsum.photos/300/200?random=2",
+      "createdAt": "2024-02-01T09:15:00Z"
+    },
+    {
+      "id": "prod_058",
+      "name": "Smartwatch Pro",
+      "price": 149.99,
+      "stock": 40,
+      "category": "Wearables",
+      "description": "Fitness tracking smartwatch",
+      "image": "https://picsum.photos/300/200?random=3",
+      "createdAt": "2024-01-22T13:40:00Z"
+    },
+    {
+      "id": "prod_059",
+      "name": "Gaming Mouse",
+      "price": 59.99,
+      "stock": 30,
+      "category": "Accessories",
+      "description": "RGB wired gaming mouse",
+      "image": "https://picsum.photos/300/200?random=4",
+      "createdAt": "2024-03-05T11:00:00Z"
+    },
+    {
+      "id": "prod_060",
+      "name": "Mechanical Keyboard",
+      "price": 120,
+      "stock": 18,
+      "category": "Accessories",
+      "description": "Blue switch mechanical keyboard",
+      "image": "https://picsum.photos/300/200?random=5",
+      "createdAt": "2024-03-10T16:20:00Z"
+    },
+    {
+      "id": "prod_061",
+      "name": "4K Action Camera",
+      "price": 249.99,
+      "stock": 10,
+      "category": "Cameras",
+      "description": "Waterproof 4K sports action camera",
+      "image": "https://picsum.photos/300/200?random=6",
+      "createdAt": "2024-02-18T08:10:00Z"
+    },
+    {
+      "id": "prod_062",
+      "name": "Laptop Stand",
+      "price": 34.99,
+      "stock": 55,
+      "category": "Accessories",
+      "description": "Aluminum adjustable laptop stand",
+      "image": "https://picsum.photos/300/200?random=7",
+      "createdAt": "2024-01-29T12:45:00Z"
+    },
+    {
+      "id": "prod_063",
+      "name": "USB-C Docking Station",
+      "price": 79.99,
+      "stock": 22,
+      "category": "Accessories",
+      "description": "Multi-port docking station",
+      "image": "https://picsum.photos/300/200?random=8",
+      "createdAt": "2024-02-12T14:00:00Z"
+    },
+    {
+      "id": "prod_064",
+      "name": "Noise Cancelling Earbuds",
+      "price": 129.99,
+      "stock": 33,
+      "category": "Electronics",
+      "description": "Wireless earbuds with ANC",
+      "image": "https://picsum.photos/300/200?random=9",
+      "createdAt": "2024-03-19T10:20:00Z"
+    },
+    {
+      "id": "prod_065",
+      "name": "Smart Home Hub",
+      "price": 99.99,
+      "stock": 16,
+      "category": "Smart Home",
+      "description": "Central hub for smart devices",
+      "image": "https://picsum.photos/300/200?random=10",
+      "createdAt": "2024-01-17T09:30:00Z"
+    },
+    {
+      "id": "prod_066",
+      "name": "WiFi Router AX6000",
+      "price": 189,
+      "stock": 14,
+      "category": "Networking",
+      "description": "High-speed WiFi 6 router",
+      "image": "https://picsum.photos/300/200?random=11",
+      "createdAt": "2024-02-25T07:55:00Z"
+    },
+    {
+      "id": "prod_067",
+      "name": "Smart LED Strip",
+      "price": 29.99,
+      "stock": 60,
+      "category": "Smart Home",
+      "description": "RGB smart LED strip with app control",
+      "image": "https://picsum.photos/300/200?random=12",
+      "createdAt": "2024-03-11T15:00:00Z"
+    },
+    {
+      "id": "prod_068",
+      "name": "Drone Mini",
+      "price": 299.99,
+      "stock": 8,
+      "category": "Drones",
+      "description": "4K camera drone with stabilization",
+      "image": "https://picsum.photos/300/200?random=13",
+      "createdAt": "2024-01-26T11:25:00Z"
+    },
+    {
+      "id": "prod_069",
+      "name": "VR Headset",
+      "price": 349,
+      "stock": 6,
+      "category": "Gaming",
+      "description": "Immersive VR headset",
+      "image": "https://picsum.photos/300/200?random=14",
+      "createdAt": "2024-02-07T10:10:00Z"
+    },
+    {
+      "id": "prod_070",
+      "name": "Portable Monitor",
+      "price": 179.99,
+      "stock": 20,
+      "category": "Monitors",
+      "description": "15-inch portable USB-C display",
+      "image": "https://picsum.photos/300/200?random=15",
+      "createdAt": "2024-03-08T14:30:00Z"
+    },
+    {
+      "id": "prod_071",
+      "name": "Power Bank 20000mAh",
+      "price": 39.99,
+      "stock": 50,
+      "category": "Accessories",
+      "description": "Fast-charging high-capacity power bank",
+      "image": "https://picsum.photos/300/200?random=16",
+      "createdAt": "2024-02-14T09:00:00Z"
+    },
+    {
+      "id": "prod_072",
+      "name": "Smart Thermostat",
+      "price": 149,
+      "stock": 13,
+      "category": "Smart Home",
+      "description": "Energy-efficient smart thermostat",
+      "image": "https://picsum.photos/300/200?random=17",
+      "createdAt": "2024-01-20T12:00:00Z"
+    },
+    {
+      "id": "prod_073",
+      "name": "Security Camera",
+      "price": 89.99,
+      "stock": 27,
+      "category": "Security",
+      "description": "1080p indoor security camera",
+      "image": "https://picsum.photos/300/200?random=18",
+      "createdAt": "2024-03-03T13:22:00Z"
+    },
+    {
+      "id": "prod_074",
+      "name": "Wireless Charger Pad",
+      "price": 24.99,
+      "stock": 70,
+      "category": "Accessories",
+      "description": "Fast Qi wireless charging pad",
+      "image": "https://picsum.photos/300/200?random=19",
+      "createdAt": "2024-01-30T15:40:00Z"
+    },
+    {
+      "id": "prod_075",
+      "name": "Smart Door Lock",
+      "price": 169.99,
+      "stock": 9,
+      "category": "Security",
+      "description": "Bluetooth-enabled smart door lock",
+      "image": "https://picsum.photos/300/200?random=20",
+      "createdAt": "2024-02-22T08:40:00Z"
+    },
+    {
+      "id": "prod_076",
+      "name": "Smart Light Bulb",
+      "price": 19.99,
+      "stock": 80,
+      "category": "Smart Home",
+      "description": "WiFi-enabled multicolor light bulb",
+      "image": "https://picsum.photos/300/200?random=21",
+      "createdAt": "2024-03-12T10:00:00Z"
+    },
+    {
+      "id": "prod_076",
+      "name": "Electric Toothbrush",
+      "price": 49.99,
+      "stock": 35,
+      "category": "Personal Care",
+      "description": "Rechargeable sonic toothbrush",
+      "image": "https://picsum.photos/300/200?random=22",
+      "createdAt": "2024-02-03T08:10:00Z"
+    },
+    {
+      "id": "prod_077",
+      "name": "Portable Projector",
+      "price": 229.99,
+      "stock": 14,
+      "category": "Electronics",
+      "description": "Mini portable home projector",
+      "image": "https://picsum.photos/300/200?random=23",
+      "createdAt": "2024-03-09T18:00:00Z"
+    },
+    {
+      "id": "prod_078",
+      "name": "Robot Vacuum",
+      "price": 299.99,
+      "stock": 11,
+      "category": "Home Appliances",
+      "description": "Automatic robot vacuum cleaner",
+      "image": "https://picsum.photos/300/200?random=24",
+      "createdAt": "2024-01-19T13:15:00Z"
+    },
+    {
+      "id": "prod_079",
+      "name": "Smart Scale",
+      "price": 39.99,
+      "stock": 50,
+      "category": "Health",
+      "description": "Body composition smart scale",
+      "image": "https://picsum.photos/300/200?random=25",
+      "createdAt": "2024-02-08T11:45:00Z"
+    },
+    {
+      "id": "prod_080",
+      "name": "Car Dashcam",
+      "price": 109.99,
+      "stock": 19,
+      "category": "Automotive",
+      "description": "1080p dashboard camera",
+      "image": "https://picsum.photos/300/200?random=26",
+      "createdAt": "2024-02-20T16:30:00Z"
+    },
+    {
+      "id": "prod_081",
+      "name": "Smart Air Purifier",
+      "price": 159.99,
+      "stock": 17,
+      "category": "Home Appliances",
+      "description": "HEPA air purifier with app support",
+      "image": "https://picsum.photos/300/200?random=27",
+      "createdAt": "2024-01-25T09:50:00Z"
+    },
+    {
+      "id": "prod_082",
+      "name": "Coffee Grinder",
+      "price": 44.99,
+      "stock": 28,
+      "category": "Kitchen",
+      "description": "Stainless steel electric grinder",
+      "image": "https://picsum.photos/300/200?random=28",
+      "createdAt": "2024-03-14T12:30:00Z"
+    },
+    {
+      "id": "prod_083",
+      "name": "Smart Plug",
+      "price": 14.99,
+      "stock": 100,
+      "category": "Smart Home",
+      "description": "Voice-control enabled smart plug",
+      "image": "https://picsum.photos/300/200?random=29",
+      "createdAt": "2024-01-31T14:12:00Z"
+    },
+    {
+      "id": "prod_084",
+      "name": "Fitness Tracker",
+      "price": 59.99,
+      "stock": 42,
+      "category": "Wearables",
+      "description": "Water-resistant activity tracker",
+      "image": "https://picsum.photos/300/200?random=30",
+      "createdAt": "2024-03-02T07:20:00Z"
+    },
+    {
+      "id": "prod_085",
+      "name": "Electric Kettle",
+      "price": 32.99,
+      "stock": 26,
+      "category": "Kitchen",
+      "description": "1.7L stainless steel electric kettle",
+      "image": "https://picsum.photos/300/200?random=31",
+      "createdAt": "2024-02-17T09:40:00Z"
+    },
+    {
+      "id": "prod_086",
+      "name": "Hair Dryer Pro",
+      "price": 74.99,
+      "stock": 22,
+      "category": "Personal Care",
+      "description": "High-speed ionic hair dryer",
+      "image": "https://picsum.photos/300/200?random=32",
+      "createdAt": "2024-01-21T10:30:00Z"
+    },
+    {
+      "id": "prod_087",
+      "name": "LED Desk Lamp",
+      "price": 27.99,
+      "stock": 48,
+      "category": "Home",
+      "description": "Adjustable LED desk lamp",
+      "image": "httpsum.photos/300/200?random=33",
+      "createdAt": "2024-02-24T11:00:00Z"
+    },
+    {
+      "id": "prod_088",
+      "name": "Electric Shaver",
+      "price": 89.99,
+      "stock": 15,
+      "category": "Personal Care",
+      "description": "Waterproof rechargeable shaver",
+      "image": "https://picsum.photos/300/200?random=34",
+      "createdAt": "2024-03-06T15:15:00Z"
+    },
+    {
+      "id": "prod_089",
+      "name": "Mini Portable Fan",
+      "price": 16.99,
+      "stock": 70,
+      "category": "Home",
+      "description": "Rechargeable handheld fan",
+      "image": "https://picsum.photos/300/200?random=35",
+      "createdAt": "2024-02-11T13:35:00Z"
+    },
+    {
+      "id": "prod_090",
+      "name": "Laptop Backpack",
+      "price": 54.99,
+      "stock": 33,
+      "category": "Bags",
+      "description": "Waterproof laptop backpack",
+      "image": "https://picsum.photos/300/200?random=36",
+      "createdAt": "2024-01-28T08:00:00Z"
+    },
+    {
+      "id": "prod_091",
+      "name": "Bluetooth Keyboard",
+      "price": 45,
+      "stock": 24,
+      "category": "Accessories",
+      "description": "Slim wireless Bluetooth keyboard",
+      "image": "https://picsum.photos/300/200?random=37",
+      "createdAt": "2024-03-01T09:20:00Z"
+    },
+    {
+      "id": "prod_092",
+      "name": "Portable Blender",
+      "price": 34.99,
+      "stock": 31,
+      "category": "Kitchen",
+      "description": "USB rechargeable portable blender",
+      "image": "https://picsum.photos/300/200?random=38",
+      "createdAt": "2024-02-19T07:30:00Z"
+    },
+    {
+      "id": "prod_092",
+      "name": "Wireless Doorbell",
+      "price": 24.99,
+      "stock": 65,
+      "category": "Home",
+      "description": "Battery-powered wireless doorbell",
+      "image": "https://picsum.photos/300/200?random=39",
+      "createdAt": "2024-01-27T12:25:00Z"
+    },
+    {
+      "id": "prod_093",
+      "name": "Rechargeable Flashlight",
+      "price": 29.99,
+      "stock": 50,
+      "category": "Outdoors",
+      "description": "High-lumen LED flashlight",
+      "image": "https://picsum.photos/300/200?random=40",
+      "createdAt": "2024-02-16T14:10:00Z"
+    },
+    {
+      "id": "prod_094",
+      "name": "USB-C Fast Charger",
+      "price": 22.99,
+      "stock": 90,
+      "category": "Accessories",
+      "description": "25W USB-C fast charging adapter",
+      "image": "https://picsum.photos/300/200?random=41",
+      "createdAt": "2024-03-04T11:40:00Z"
+    },
+    {
+      "id": "prod_095",
+      "name": "Electric Heater",
+      "price": 79.99,
+      "stock": 18,
+      "category": "Home Appliances",
+      "description": "Portable ceramic space heater",
+      "image": "https://picsum.photos/300/200?random=42",
+      "createdAt": "2024-01-23T15:30:00Z"
+    },
+    {
+      "id": "prod_096",
+      "name": "Kitchen Air Fryer",
+      "price": 129.99,
+      "stock": 20,
+      "category": "Kitchen",
+      "description": "5.5L oil-free air fryer",
+      "image": "https://picsum.photos/300/200?random=43",
+      "createdAt": "2024-02-27T09:25:00Z"
+    },
+    {
+      "id": "prod_097",
+      "name": "Outdoor Lantern",
+      "price": 27.99,
+      "stock": 55,
+      "category": "Outdoors",
+      "description": "Rechargeable camping lantern",
+      "image": "https://picsum.photos/300/200?random=44",
+      "createdAt": "2024-03-07T16:20:00Z"
+    },
+    {
+      "id": "prod_098",
+      "name": "Gaming Controller",
+      "price": 69.99,
+      "stock": 32,
+      "category": "Gaming",
+      "description": "Wireless dual joystick controller",
+      "image": "https://picsum.photos/300/200?random=45",
+      "createdAt": "2024-02-10T12:10:00Z"
+    },
+    {
+      "id": "prod_099",
+      "name": "Smart Water Bottle",
+      "price": 39.99,
+      "stock": 44,
+      "category": "Fitness",
+      "description": "Hydration tracking bottle",
+      "image": "https://picsum.photos/300/200?random=46",
+      "createdAt": "2024-01-24T11:00:00Z"
+    },
+    {
+      "id": "prod_100",
+      "name": "Portable Hard Drive 1TB",
+      "price": 89.99,
+      "stock": 27,
+      "category": "Storage",
+      "description": "External USB 3.0 hard drive",
+      "image": "https://picsum.photos/300/200?random=47",
+      "createdAt": "2024-02-05T07:45:00Z"
+    },
+    {
+      "id": "prod_101",
+      "name": "Noise Meter",
+      "price": 34.99,
+      "stock": 36,
+      "category": "Tools",
+      "description": "Handheld digital sound level meter",
+      "image": "https://picsum.photos/300/200?random=48",
+      "createdAt": "2024-03-13T13:55:00Z"
+    },
+    {
+      "id": "prod_102",
+      "name": "Electric Screwdriver",
+      "price": 49.99,
+      "stock": 30,
+      "category": "Tools",
+      "description": "Cordless electric screwdriver kit",
+      "image": "https://picsum.photos/300/200?random=49",
+      "createdAt": "2024-02-06T10:40:00Z"
+    },
+    {
+      "id": "prod_103",
+      "name": "Digital Photo Frame",
+      "price": 79.99,
+      "stock": 21,
+      "category": "Electronics",
+      "description": "WiFi digital photo frame",
+      "image": "https://picsum.photos/300/200?random=50",
+      "createdAt": "2024-01-18T07:00:00Z"
+    },
+    {
+      "id": "prod_104",
+      "name": "Smart Fitness Scale",
+      "price": 59.99,
+      "stock": 37,
+      "category": "Health",
+      "description": "Bluetooth smart body scale",
+      "image": "https://picsum.photos/300/200?random=51",
+      "createdAt": "2024-03-15T10:50:00Z"
+    },
+    {
+      "id": "prod_105",
+      "name": "Portable Solar Charger",
+      "price": 45.99,
+      "stock": 28,
+      "category": "Outdoors",
+      "description": "Foldable solar power bank",
+      "image": "https://picsum.photos/300/200?random=52",
+      "createdAt": "2024-02-04T12:40:00Z"
+    },
+    {
+      "id": "prod_106",
+      "name": "Thermal Camera",
+      "price": 299.99,
+      "stock": 9,
+      "category": "Electronics",
+      "description": "Infrared thermal imaging camera",
+      "image": "https://picsum.photos/300/200?random=53",
+      "createdAt": "2024-01-16T14:15:00Z"
+    },
+    {
+      "id": "prod_107",
+      "name": "Car Jump Starter",
+      "price": 89.99,
+      "stock": 17,
+      "category": "Automotive",
+      "description": "Lithium battery jump starter",
+      "image": "https://picsum.photos/300/200?random=54",
+      "createdAt": "2024-03-05T09:45:00Z"
+    },
+    {
+      "id": "prod_108",
+      "name": "Wireless Barcode Scanner",
+      "price": 69.99,
+      "stock": 23,
+      "category": "Business",
+      "description": "2.4G handheld barcode scanner",
+      "image": "https://picsum.photos/300/200?random=55",
+      "createdAt": "2024-02-13T08:55:00Z"
+    },
+    {
+      "id": "prod_109",
+      "name": "Mini Dehumidifier",
+      "price": 49.99,
+      "stock": 14,
+      "category": "Home Appliances",
+      "description": "Portable moisture absorber",
+      "image": "https://picsum.photos/300/200?random=56",
+      "createdAt": "2024-02-21T16:10:00Z"
+    }
+  ]
+}
