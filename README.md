@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Admin Panel – Project Setup Guide
 
-## Getting Started
+Welcome to the Admin Panel project. Follow the steps below to run the project on your system.
 
-First, run the development server:
+How to Run the Project Locally
 
-```bash
+Step 1: Install Dependencies
+Run the following command inside your project folder:
+npm install
+
+Step 2: Start the Mock Server
+Open Terminal 1 and run:
+npm run server
+
+Step 3: Start the Frontend
+Open Terminal 2 and run:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Accessing the Application
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+After both terminals are running, open your browser and visit:
+http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Login Information
 
-## Learn More
+You can login with any name and any password.
+The login is not restricted and will allow you to enter the admin dashboard.
 
-To learn more about Next.js, take a look at the following resources:
+Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+• Next.js / React
+• Tailwind CSS
+• Mock JSON Server
+• TypeScript (if used)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Available Commands
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+npm run dev → Starts the frontend
+npm run server → Starts the mock backend API
+npm run build → Creates the production build
+npm run start → Runs the production build
